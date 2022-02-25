@@ -1,0 +1,44 @@
+h1{
+    background-color: brown;
+    color: wheat;
+    padding: 10px;
+    text-align: center;
+}
+.countries {
+    background-color:rgba(173, 182, 182, 0.363);
+    border: 2px solid royalblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+ #countries {
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+
+ }
+.button {
+    padding: 8px 20px;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+    font-size: medium;
+}
+
+h2 {
+    background-color: rgba(158, 187, 187, 0.836);
+    padding: 10px;
+}
+
+#c {
+    background-color: rgba(129, 167, 167, 0.795);
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+}
+
+section {
+    background-color: rgba(156, 167, 167, 0.537);
+    padding: 15px;
+}
